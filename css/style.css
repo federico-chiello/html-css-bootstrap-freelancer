@@ -19,12 +19,12 @@
 /* / debug */
 
 /* Header */
-.header-top {
+.bg_blue {
   height: 80px;
-  background-color: rgb(8, 14, 41);
+  background-color: #2C3E50;
 }
 
-.jumbotron {
-  background-color: rgb(23, 185, 151);
+.bg_green {
+  background-color: #1ABC9C;
 }
 /* / header */
