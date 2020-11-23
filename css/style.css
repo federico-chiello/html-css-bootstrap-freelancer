@@ -17,3 +17,14 @@
   border: 1px solid white;
 }
 /* / debug */
+
+/* Header */
+.header-top {
+  height: 80px;
+  background-color: rgb(8, 14, 41);
+}
+
+.jumbotron {
+  background-color: rgb(23, 185, 151);
+}
+/* / header */
