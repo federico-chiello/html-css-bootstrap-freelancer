@@ -5,7 +5,7 @@
 }
 
 .debug .row {
-  height: 150px;
+  height: 100px;
 }
 
 .debug .row [class*="col-"] {
@@ -18,7 +18,7 @@
 }
 /* / debug */
 
-/* Header */
+/* background-color */
 .bg_blue {
   height: 80px;
   background-color: #2C3E50;
@@ -28,7 +28,7 @@
   background-color: #1ABC9C;
 }
 
-.bg_white {
-  background-color: white;
+.bg_grey {
+  background-color: #3A546D;
 }
-/* / header */
+/* / background-color */
