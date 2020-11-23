@@ -1,0 +1,19 @@
+/* Debug */
+.debug .row [class*="col-"] {
+  background-color: lightblue;
+  border: 1px solid black;
+}
+
+.debug .row {
+  height: 150px;
+}
+
+.debug .row [class*="col-"] {
+  height: 100%;
+}
+
+.debug .row .row [class*="col-"] {
+  background-color: coral;
+  border: 2px solid white;
+}
+/* / debug */
