@@ -193,11 +193,26 @@ header .navbar {
 #about .ms_star:after {
   content: '';
   display: inline-block;
-  width: 8%;
+  width: 10%;
   height: 4px;
   border-radius:2px;
   background-color: white;
 }
+
+#about .contenitore {
+  padding: 0 70px;
+}
+
+#about p {
+  line-height: 1.6;
+  padding: 0 60px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+
 
 /* / about */
 
