@@ -103,6 +103,10 @@ header .navbar {
 /* main */
 
 /* portfolio */
+#portfolio {
+  padding-bottom: 50px;
+}
+
 #portfolio .ms_star:before,
 #portfolio .ms_star:after {
   content: '';
@@ -116,17 +120,18 @@ header .navbar {
 .ms_bg_portfolio {
   height: 250px;
   border-radius: 10px;
-  margin: 20px 0;
 }
 
 .bg_portfolio {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  border: 15px solid white;
+  border-radius: 25px;
 }
 
-.contenuto_portfolio {
-
+.mb_portfolio {
+  margin-bottom: 20px;
 }
 
 .cabin {
