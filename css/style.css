@@ -225,6 +225,15 @@ header .navbar {
 /* / about */
 
 /* contact */
+#contact .ms_star:before,
+#contact .ms_star:after {
+  content: '';
+  display: inline-block;
+  width: 15%;
+  height: 4px;
+  border-radius:2px;
+  background-color: #2C3E50;
+}
 
 /* / contact */
 
