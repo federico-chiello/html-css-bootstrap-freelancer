@@ -255,11 +255,24 @@ header .navbar {
 /* / main */
 
 /* footer */
-footer i {
-  font-size: 15px;
-  padding: 10px;
-  border: 1px solid white;
-  border-radius: 80px;
+.footer-top {
+  padding: 40px 0;
 }
 
+.footer-bottom {
+  padding: 30px 0;
+}
+
+footer i {
+  color: white;
+  font-size: 15px;
+  padding: 15px;
+  border: 1px solid white;
+  border-radius: 100%;
+}
+
+footer a.start {
+  color: #1ABC9C;
+  text-decoration: none;
+}
 /* / footer */
