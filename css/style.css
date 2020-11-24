@@ -169,6 +169,12 @@ header .navbar {
   position: relative;
 }
 
+#portfolio .row .layover .plus {
+  width: 100%;
+  border-radius: 10px;
+}
+
+
 #portfolio .row .layover i{
   font-size: 100px;
   position: absolute;
