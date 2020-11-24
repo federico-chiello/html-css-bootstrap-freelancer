@@ -225,6 +225,10 @@ header .navbar {
 /* / about */
 
 /* contact */
+#contact {
+  padding-bottom: 60px;
+}
+
 #contact .ms_star:before,
 #contact .ms_star:after {
   content: '';
@@ -233,6 +237,14 @@ header .navbar {
   height: 4px;
   border-radius:2px;
   background-color: #2C3E50;
+}
+
+#contact input, textarea {
+  margin-bottom: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
 }
 
 /* / contact */
