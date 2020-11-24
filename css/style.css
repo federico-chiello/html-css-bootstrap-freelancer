@@ -189,7 +189,7 @@ header .navbar {
 }
 
 #portfolio .layover:hover i {
-  color: green;
+  color: rgb(32, 126, 47);
   display: block;
 }
 /* /portfolio */
