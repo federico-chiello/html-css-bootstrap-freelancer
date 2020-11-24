@@ -128,7 +128,7 @@ header .navbar {
 
 .ms_bg_portfolio {
   height: 300px;
-  border-radius: 10px;
+  border: 10px;
 }
 
 .bg_portfolio {
@@ -194,6 +194,13 @@ header .navbar {
 #portfolio .layover:hover i {
   color: rgb(32, 126, 25);
   display: block;
+}
+
+@media screen and (max-width:768px) {
+  .ms_bg_portfolio {
+    height: 450px;
+    border-radius: 30px;
+  }
 }
 /* /portfolio */
 
