@@ -189,6 +189,9 @@ header .navbar {
 /* /portfolio */
 
 /* about */
+#about {
+  padding: 60px 0 50px;
+}
 #about .ms_star:before,
 #about .ms_star:after {
   content: '';
@@ -205,15 +208,24 @@ header .navbar {
 
 #about p {
   line-height: 1.6;
-  padding: 0 60px;
+  padding: 0 60px 40px;
 }
 
 .mb-30 {
   margin-bottom: 30px;
 }
 
-
-
+#about a {
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 5px;
+}
 /* / about */
+
+/* contact */
+
+/* / contact */
 
 /* / main */
