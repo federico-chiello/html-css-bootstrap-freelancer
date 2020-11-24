@@ -35,6 +35,10 @@ h2 {
   color: white;
 }
 
+.contenitore {
+  padding: 0 70px;
+}
+
 /* background-color */
 .bg_blue {
   background-color: #2C3E50;
@@ -200,10 +204,6 @@ header .navbar {
   height: 4px;
   border-radius:2px;
   background-color: white;
-}
-
-#about .contenitore {
-  padding: 0 70px;
 }
 
 #about p {
