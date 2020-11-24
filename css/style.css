@@ -118,7 +118,7 @@ header .navbar {
 }
 
 .ms_bg_portfolio {
-  height: 250px;
+  height: 300px;
   border-radius: 10px;
 }
 
@@ -189,6 +189,15 @@ header .navbar {
 /* /portfolio */
 
 /* about */
+#about .ms_star:before,
+#about .ms_star:after {
+  content: '';
+  display: inline-block;
+  width: 8%;
+  height: 4px;
+  border-radius:2px;
+  background-color: white;
+}
 
 /* / about */
 
