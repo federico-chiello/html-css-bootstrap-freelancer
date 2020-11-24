@@ -157,6 +157,35 @@ header .navbar {
 .submarine {
   background-image: url('../img/submarine.png');
 }
+
+#portfolio .plus {
+  height: 100%;
+  width: 100%;
+
+}
+
+#portfolio .row .layover {
+  width: 100%;
+  position: relative;
+}
+
+#portfolio .row .layover i{
+  font-size: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+
+#portfolio .layover:hover .plus{
+  background-color: rgba(41, 179, 84, 0.47);
+}
+
+#portfolio .layover:hover i {
+  color: green;
+  display: block;
+}
 /* /portfolio */
 
 /* / main */
