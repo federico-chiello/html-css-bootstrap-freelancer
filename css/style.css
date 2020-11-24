@@ -113,6 +113,12 @@ header .navbar {
   background-color: #2C3E50;
 }
 
+.ms_bg_portfolio {
+  height: 250px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
 .bg_portfolio {
   background-size: cover;
   background-repeat: no-repeat;
@@ -121,6 +127,26 @@ header .navbar {
 
 .cabin {
   background-image: url('../img/cabin.png');
+}
+
+.cake {
+  background-image: url('../img/cake.png');
+}
+
+.circus {
+  background-image: url('../img/circus.png');
+}
+
+.game {
+  background-image: url('../img/game.png');
+}
+
+.safe {
+  background-image: url('../img/safe.png');
+}
+
+.submarine {
+  background-image: url('../img/submarine.png');
 }
 /* /portfolio */
 
