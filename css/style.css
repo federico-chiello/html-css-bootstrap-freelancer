@@ -5,7 +5,7 @@
 }
 
 .debug .row {
-  height: 150px;
+  height: 200px;
 }
 
 .debug .row [class*="col-"] {
@@ -111,6 +111,16 @@ header .navbar {
   height: 4px;
   border-radius:2px;
   background-color: #2C3E50;
+}
+
+.bg_portfolio {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.cabin {
+  background-image: url('../img/cabin.png');
 }
 /* /portfolio */
 
